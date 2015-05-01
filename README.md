@@ -28,11 +28,12 @@ No additional load to the forum (scripts or images)
 Easy installation, no template edits
 Anybody can opt out of this them self
 
-New to AddThis:
-If you want to know more about addthis profile:http://support.addthis.com/customer/portal/articles/381216-using-profiles
-
 Demo: http://www.wmnoc.com/
 Addthis: http://www.addthis.com/
+MyBB Official Release: http://community.mybb.com/mods.php?action=view&pid=448
+
+New to AddThis:
+If you want to know more about addthis profile:http://support.addthis.com/customer/portal/articles/381216-using-profiles
 
 Feel free to suggest/comment/question if you have any :-)
 Thanks
